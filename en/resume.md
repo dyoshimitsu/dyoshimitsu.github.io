@@ -1,0 +1,9 @@
+# Daiki Yoshimitsu
+
+## OBJECTIVE
+
+## QUALIFICATIONS
+
+## WORK EXPERIENCE
+
+## EDUCATION
