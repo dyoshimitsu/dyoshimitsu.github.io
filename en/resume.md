@@ -1,4 +1,4 @@
-# Daiki Yoshimitsu
+# DAIKI YOSHIMITSU
 
 ## OBJECTIVE
 
