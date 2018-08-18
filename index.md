@@ -11,7 +11,7 @@
 - [TECH BLOG](https://qiita.com/dyoshimitsu)
 - WEB SERVICES
   - [Serious Lunch](https://serious-lunch.com/)
-    The lunch information sharing service.
+    <br>*The lunch information sharing service.*
 - CONTRIBUTION
   - [プロセスとスレッドについての勉強会](https://blog.japantaxi.co.jp/2018/05/25/1146)
 
