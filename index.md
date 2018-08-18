@@ -21,3 +21,4 @@
 - [GITHUB](https://github.com/dyoshimitsu)
 - [TWITTER](https://twitter.com/dyoshimitsu)
 - [FACEBOOK](https://facebook.com/dyoshimitsu)
+- [LINKEDIN](https://www.linkedin.com/in/dyoshimitsu/)
