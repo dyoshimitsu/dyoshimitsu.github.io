@@ -6,6 +6,8 @@ Email: d.yoshimitsu@gmail.com
 
 ## OBJECTIVE
 
+TODO
+
 ## SKILLS
 
 - Software: Microsoft Office, UNIX/Linux
