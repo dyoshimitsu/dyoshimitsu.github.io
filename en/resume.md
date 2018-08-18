@@ -8,6 +8,10 @@ Email: d.yoshimitsu@gmail.com
 
 ## SKILLS
 
+- Software: Microsoft Office, UNIX/Linux
+- Languages: C, C#, Java, Scala, Ruby, SQL
+- Databases: MySQL, Oracle, MS SQL Server
+
 ## QUALIFICATIONS
 
 - LPIC Level 1 (Linux Professional Institute Certification Level 1) - 2012
