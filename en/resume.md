@@ -25,28 +25,28 @@ TODO
 
 ### Software Engineer (Server Side)
 
-BizReach, Inc.
+BizReach, Inc.  
 2018-07 - present
 
 - TODO
 
 ### Software Engineer (Server Side)
 
-JapanTaxi Co.,Ltd.
+JapanTaxi Co.,Ltd.  
 2017-03 - 2018-06
 
 - TODO
 
 ### Junior Project Manager
 
-Cyber Com Co., Ltd.
+Cyber Com Co., Ltd.  
 2014-05 - 20017-02
 
 - TODO
 
 ### Junior Software Engineer
 
-Cyber Com Co., Ltd.
+Cyber Com Co., Ltd.  
 2009-04 - 20014-04
 
 - TODO
