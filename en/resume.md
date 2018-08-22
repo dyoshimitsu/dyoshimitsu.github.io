@@ -10,9 +10,9 @@ TODO
 
 ## SKILLS
 
-- Software: Microsoft Office, UNIX/Linux
 - Languages: C, C#, Java, Scala, Ruby, SQL
 - Databases: MySQL, Oracle, MS SQL Server
+- Software: Microsoft Office, UNIX/Linux
 
 ## QUALIFICATIONS
 
@@ -23,33 +23,29 @@ TODO
 
 ## WORK EXPERIENCE
 
-### Software Engineer (Server Side)
+### BizReach, Inc.
 
-BizReach, Inc.  
-2018-07 - present
-
-- TODO
-
-### Software Engineer (Server Side)
-
-JapanTaxi Co.,Ltd.  
-2017-03 - 2018-06
+#### Software Engineer(Server Side) (2018-07 - present)
 
 - TODO
 
-### Junior Project Manager
+### JapanTaxi Co.,Ltd.
 
-Cyber Com Co., Ltd.  
-2014-05 - 20017-02
+#### Software Engineer(Server Side) (2017-03 - 2018-06)
+
+- TODO
+
+### Cyber Com Co., Ltd.
+
+#### Junior Project Manager (2014-05 - 20017-02)
 
 - TODO
 
-### Junior Software Engineer
+#### Junior Software Engineer (2009-04 - 20014-0)
 
-Cyber Com Co., Ltd.  
-2009-04 - 20014-04
-
-- TODO
+- Development of air traffic control system using GIS
+- Development of financial information services
+- Development of camera device driver for android phone
 
 ## EDUCATION
 
