@@ -23,19 +23,19 @@ TODO
 
 ## WORK EXPERIENCE
 
-### BizReach, Inc.
+### **BizReach, Inc.**
 
 #### Software Engineer(Server Side) (2018-07 - present)
 
 - TODO
 
-### JapanTaxi Co.,Ltd.
+### **JapanTaxi Co.,Ltd.**
 
 #### Software Engineer(Server Side) (2017-03 - 2018-06)
 
 - TODO
 
-### Cyber Com Co., Ltd.
+### **Cyber Com Co., Ltd.**
 
 #### Junior Project Manager (2014-05 - 20017-02)
 
