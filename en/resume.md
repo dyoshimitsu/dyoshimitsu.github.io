@@ -38,6 +38,7 @@ TODO
 
 #### Junior Project Manager (2014-05 - 20017-02)
 
+- Management of AUTOSAR BSW development project
 - Management of automotive ECU development project
 
 #### Junior Software Engineer (2009-04 - 20014-0)
