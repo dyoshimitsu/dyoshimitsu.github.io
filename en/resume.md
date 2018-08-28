@@ -45,7 +45,7 @@ TODO
 
 - Development of air traffic control system using GIS
 - Development of financial information services
-- Development of camera device driver for android phone
+- Development of digital camera device driver for android phone
 
 ## EDUCATION
 
