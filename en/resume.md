@@ -32,7 +32,8 @@ TODO
 
 #### Software Engineer(Server Side) (2017-03 - 2018-06)
 
-- TODO
+- Development of an API server to dispatch a taxi
+- Management of offshore development team
 
 ### **Cyber Com Co., Ltd.**
 
