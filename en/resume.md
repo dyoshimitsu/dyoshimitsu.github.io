@@ -26,13 +26,13 @@ TODO
 
 #### Software Engineer(Server Side) (2018-07 - present)
 
-- TODO
+- Development of an API server for applicant tracking system
 
 ### **JapanTaxi Co.,Ltd.**
 
 #### Software Engineer(Server Side) (2017-03 - 2018-06)
 
-- Development of an API server to dispatch a taxi
+- Development of an API server for dispatch a taxi
 - Management of offshore development team
 
 ### **Cyber Com Co., Ltd.**
