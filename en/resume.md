@@ -27,6 +27,7 @@ TODO
 #### Software Engineer(Server Side) (2018-07 - present)
 
 - Development of an API server for applicant tracking system
+- Introduction of test-driven development, unit test, and API test to improve quality.
 
 ### **JapanTaxi Co.,Ltd.**
 
