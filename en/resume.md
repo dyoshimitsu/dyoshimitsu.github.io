@@ -6,7 +6,7 @@ Email: d.yoshimitsu@gmail.com
 
 ## OBJECTIVE
 
-TODO
+To contribute to product development that can utilize my skills and experience.
 
 ## SKILLS
 
