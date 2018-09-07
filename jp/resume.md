@@ -20,7 +20,10 @@ TODO
 
 ## スキル
 
-TODO
+- OS : Windows, UNIX/Linux
+- 言語 : C, C#, Java, Scala, Ruby, SQL
+- DB : MySQL, Oracle, MS SQL Server
+- ソフトウェア : Microsoft Office
 
 ## 自己PR
 
