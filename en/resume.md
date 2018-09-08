@@ -12,7 +12,7 @@ To contribute to product development that can utilize my skills and experience.
 
 - OS : Windows, UNIX/Linux
 - Languages: C, C#, Java, Scala, Ruby, SQL
-- Databases: MySQL, Oracle, MS SQL Server
+- Databases: MySQL, Oracle Database, MS SQL Server
 - Software: Microsoft Office
 
 ## QUALIFICATIONS
