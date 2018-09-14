@@ -1,7 +1,5 @@
 # DAIKI YOSHIMITSU
 
-Urayasu-shi, Chiba Prefecture, Japan
-
 Email: d.yoshimitsu@gmail.com
 
 ## OBJECTIVE
