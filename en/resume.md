@@ -42,7 +42,7 @@ To contribute to product development that can utilize my skills and experience.
 - Management of AUTOSAR BSW development project
 - Management of automotive ECU development project
 
-#### Junior Software Engineer (2009-04 - 20014-0)
+#### Junior Software Engineer (2009-04 - 20014-04)
 
 - Development of air traffic control system using GIS
 - Development of financial information services
