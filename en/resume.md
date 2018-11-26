@@ -1,4 +1,4 @@
-# DAIKI YOSHIMITSU
+# Daiki Yoshimitsu
 
 Email: d.yoshimitsu@gmail.com
 
