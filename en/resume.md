@@ -2,24 +2,24 @@
 
 Email: d.yoshimitsu@gmail.com
 
-## OBJECTIVE
+## Objective
 
 To contribute to product development that can utilize my skills and experience.
 
-## SKILLS
+## Skills
 
 - OS : Windows, UNIX/Linux
 - Languages: C, C#, Java, Scala, Ruby, SQL
 - Databases: MySQL, Oracle Database, MS SQL Server
 - Software: Microsoft Office
 
-## QUALIFICATIONS
+## Qualifications
 
 - LPIC Level 1 (Linux Professional Institute Certification Level 1) - 2012
 - Oracle Silver Fellow - 2009
 - Software Design & Development Engineer Examination - 2008
 
-## WORK EXPERIENCE
+## Work Experience
 
 ### **BizReach, Inc.**
 
@@ -48,6 +48,6 @@ To contribute to product development that can utilize my skills and experience.
 - Development of financial information services
 - Development of digital camera device driver for android phone
 
-## EDUCATION
+## Education
 
 Diploma in Technology, Kagoshima Business Computer College - Kagoshima, Japan 2009
