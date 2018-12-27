@@ -1,15 +1,19 @@
 <!doctype html>
 <html>
-<head>
-  <meta charset="utf-8"/>
-  <title>DYOSHIMITSU DESCRIPTION</title>
-</head>
-<body>
-  <div id="content"></div>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    document.getElementById('content').innerHTML=marked('index.md');
-  </script>
-  <OBJECT DATA="./index.md"TYPE="text/plain" WIDTH="100%" HEIGHT="100%"></OBJECT>
-</body>
+  <head>
+    <meta charset="utf-8"/>
+    <title>DYOSHIMITSU DESCRIPTION</title>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+      axios.get('./index.md')
+        .then((response) => {
+          console.log(response);
+          document.querySelector('#content').innerHTML = marked(response.data);
+        });
+    </script>
+  </body>
 </html>
