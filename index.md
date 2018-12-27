@@ -1,24 +1,24 @@
-# DYOSHIMITSU DESCRIPTION
+# Description
 
-## RESUME
+## Resume
 
-- [ENGLISH](./en/resume)
-- [JAPANESE](./jp/resume)
+- [English](./en/resume)
+- [Japanese](./jp/resume)
 
-## ACTIVITIES
+## Activities
 
-- [BLOG](https://note.mu/dyoshimitsu)
-- [TECH BLOG](https://qiita.com/dyoshimitsu)
-- WEB SERVICES
+- [Blog](https://note.mu/dyoshimitsu)
+- [Tech Blog](https://qiita.com/dyoshimitsu)
+- Web Services
   - [WIP][Serious Lunch](https://serious-lunch.com/)  
     *The lunch information sharing service.*
-- CONTRIBUTION
+- Contribution
   - [プロセスとスレッドについての勉強会](https://blog.japantaxi.co.jp/2018/05/25/1146)
 
-## CONTACT
+## Contact
 
-- [EMAIL](mailto:d.yoshimitsu@gmail.com)
-- [GITHUB](https://github.com/dyoshimitsu)
-- [TWITTER](https://twitter.com/dyoshimitsu)
-- [FACEBOOK](https://facebook.com/dyoshimitsu)
-- [LINKEDIN](https://www.linkedin.com/in/dyoshimitsu/)
+- [Email](mailto:d.yoshimitsu@gmail.com)
+- [GitHub](https://github.com/dyoshimitsu)
+- [Twitter](https://twitter.com/dyoshimitsu)
+- [Facebook](https://facebook.com/dyoshimitsu)
+- [Linkedin](https://www.linkedin.com/in/dyoshimitsu/)
