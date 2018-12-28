@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+  <link rel="stylesheet" href="/styles/tocbot.css">
 
   <title>職務経歴書 | 吉満 大樹</title>
 
@@ -21,15 +23,31 @@
 <body style="padding-top:4.5rem;">
 
 <div id="header-outer"></div>
-<div id="content" class="container"></div>
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+      <div class="js-toc-content" id="content"></div>
+    </div>
+    <div class="col-4">
+      <nav class="toc js-toc position-fixed d-print-none d-none d-lg-block"></nav>
+    </div>
+  </div>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 <script>
   axios.get('./resume.md')
           .then((response) => {
             console.log(response);
             document.querySelector('#content').innerHTML = marked(response.data);
+            tocbot.init({
+              tocSelector: '.js-toc',
+              contentSelector: '.js-toc-content',
+              headingSelector: 'h1, h2, h3',
+              collapseDepth: 3,
+            });
           });
 </script>
 </body>
