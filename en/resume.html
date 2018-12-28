@@ -1,23 +1,23 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
-    <title>Resume | Daiki Yoshimitsu</title>
-  </head>
-  <body>
-    <div id="content"></div>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <script>
-      axios.get('./resume.md')
-        .then((response) => {
-          console.log(response);
-          document.querySelector('#content').innerHTML = marked(response.data);
-        });
-    </script>
-  </body>
+  <title>Resume | Daiki Yoshimitsu</title>
+</head>
+<body>
+<div id="content"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+  axios.get('./resume.md')
+          .then((response) => {
+            console.log(response);
+            document.querySelector('#content').innerHTML = marked(response.data);
+          });
+</script>
+</body>
 </html>
