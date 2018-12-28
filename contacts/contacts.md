@@ -1,4 +1,4 @@
-# Contact
+# Contacts
 
 - [Email](mailto:d.yoshimitsu@gmail.com)
 - [GitHub](https://github.com/dyoshimitsu)
