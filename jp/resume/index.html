@@ -40,7 +40,24 @@
 <script>
   axios.get('./resume.md')
           .then((response) => {
+            const renderer = new marked.Renderer();
+            const id_cache = {};
+
+            renderer.heading = function heading_new(text, level, raw){
+              let id = this.options.headerPrefix + raw.toLowerCase().replace(/[^\w]+/g, '-');
+              if(id_cache[id]){
+                id_cache[id]++;
+                id += id_cache[id];
+              }else{
+                id_cache[id] = 1
+              }
+              return `<h${level} id="${id}">${text}</h${level}>\n`;
+            };
+            marked.setOptions({
+              renderer: renderer,
+            });
             document.querySelector('#content').innerHTML = marked(response.data);
+
             tocbot.init({
               tocSelector: '.js-toc',
               contentSelector: '.js-toc-content',
