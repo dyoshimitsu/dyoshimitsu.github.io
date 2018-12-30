@@ -31,5 +31,11 @@
             document.querySelector('#content').innerHTML = marked(response.data);
           });
 </script>
+<script>
+  (window.onload = function() {
+    var element = document.getElementById('home');
+    if(element != null) element.setAttribute('class', element.getAttribute('class') + ' active');
+  })();
+</script>
 </body>
 </html>
