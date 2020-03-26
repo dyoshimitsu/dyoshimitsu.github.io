@@ -1,7 +1,7 @@
 # Activities
 
 - [Blog](https://note.mu/dyoshimitsu)
-- [Tech Blog](https://qiita.com/dyoshimitsu)
+- [Tech Blog](https://dev.to/dyoshimitsu)
 - Web Services
   - [WIP][Serious Lunch](https://serious-lunch.com/)  
     *The lunch information sharing service.*
