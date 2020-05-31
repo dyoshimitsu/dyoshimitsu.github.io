@@ -22,9 +22,16 @@ To contribute to product development that can utilize my skills and experience.
 
 ## Work Experience
 
+### **ANDART inc.**
+
+#### Software Engineer (2019-07 - present)
+
+- Development and operation of a platform for joint ownership of contemporary art
+- Building a Data Analysis Platform
+
 ### **BizReach, Inc.**
 
-#### Software Engineer(Server Side) (2018-07 - present)
+#### Software Engineer(Server Side) (2018-07 - 2020-01)
 
 - Development of an API server for applicant tracking system
 - Introduction of test-driven development, unit test, and API test to improve quality.
