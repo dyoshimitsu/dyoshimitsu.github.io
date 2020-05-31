@@ -27,7 +27,7 @@ To contribute to product development that can utilize my skills and experience.
 #### Software Engineer (2019-07 - present)
 
 - Development and operation of a platform for joint ownership of contemporary art
-- Building a Data Analysis Platform
+- Building a data analysis platform
 
 ### **BizReach, Inc.**
 
