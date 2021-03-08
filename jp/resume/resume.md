@@ -21,7 +21,7 @@ Webサービス会社に転職後、APIサーバーのスクラム開発、オ�
 ## スキル
 
 - OS : Windows, UNIX/Linux
-- 言語 : C, C#, Java, Scala, Ruby, SQL
+- 言語 : C, C#, Java, Scala, Ruby, TypeScript, SQL
 - DB : MySQL, Oracle Database, MS SQL Server
 - ソフトウェア : Microsoft Office
 

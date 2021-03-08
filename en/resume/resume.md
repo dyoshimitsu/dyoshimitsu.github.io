@@ -9,7 +9,7 @@ To contribute to product development that can utilize my skills and experience.
 ## Skills
 
 - OS : Windows, UNIX/Linux
-- Languages: C, C#, Java, Scala, Ruby, SQL
+- Languages: C, C#, Java, Scala, Ruby, TypeScript, SQL
 - Databases: MySQL, Oracle Database, MS SQL Server
 - Software: Microsoft Office
 
