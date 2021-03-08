@@ -22,12 +22,13 @@ To contribute to product development that can utilize my skills and experience.
 
 ## Work Experience
 
-### **ANDART inc.**
+### **Freelance**
 
-#### Software Engineer (2019-07 - present)
+#### Software Engineer (2020-02 - 2021-03)
 
 - Development and operation of a platform for joint ownership of contemporary art
 - Building a data analysis platform
+- Development of MA tools for programmatic advertising
 
 ### **BizReach, Inc.**
 
